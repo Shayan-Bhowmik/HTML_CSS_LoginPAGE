@@ -1,3 +1,3 @@
 # HTML_CSS_LoginPAGE
 
-This project focuses on the frontend and showcases a clean, interactive user interface for login functionality. While it's a beginner-level project, it taught me a lot about structuring layouts, styling components, and making simple pages feel polished and responsive — all without using JavaScript!
+This is a beginner-level frontend project that features a simple yet interactive Login Page designed using only HTML and CSS. The page includes a user-friendly interface with clean styling and responsive layout, aimed at enhancing the user experience.
