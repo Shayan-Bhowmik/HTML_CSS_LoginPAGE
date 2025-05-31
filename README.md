@@ -1,3 +1,19 @@
-# HTML_CSS_LoginPAGE
+# Glassmorphism Login Page
 
-This is a beginner-level frontend project that features a simple yet interactive Login Page designed using only HTML and CSS. The page includes a user-friendly interface with clean styling and responsive layout, aimed at enhancing the user experience.
+A beautiful and modern **Login Page** built with HTML and CSS, featuring a **glassmorphism UI effect**, clean form layout, and responsive styling.
+
+## Features
+
+- Clean and minimal design
+- Responsive layout
+- Icons using Font Awesome
+- Background image support
+- ❄Glassmorphism effect with backdrop blur
+- Functional form fields with input validation
+- Remember Me & Forgot Password options
+- 
+## Technologies Used
+
+- HTML
+- CSS
+- Font Awesome (for icons)
