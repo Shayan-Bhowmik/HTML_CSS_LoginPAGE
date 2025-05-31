@@ -8,7 +8,7 @@ A beautiful and modern **Login Page** built with HTML and CSS, featuring a **gla
 - Responsive layout
 - Icons using Font Awesome
 - Background image support
-- ❄Glassmorphism effect with backdrop blur
+- Glassmorphism effect with backdrop blur
 - Functional form fields with input validation
 - Remember Me & Forgot Password options
 - 
